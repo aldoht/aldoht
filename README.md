@@ -18,4 +18,4 @@ I love spending quality time with my loved ones and playing videogames in my spa
 
 ### Contact
 
-If you are interested in contacting me, you can e-mail me at my personal e-mail (linked to this account): aldofernandoht@gmail.com
+If you are interested in contacting me, you can email me at my personal email address (linked to this account): aldofernandoht@gmail.com
