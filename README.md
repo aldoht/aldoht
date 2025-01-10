@@ -5,7 +5,7 @@
 
 ###
 
-<p align="left">I am an 19-year-old student currently focused on learning C#, but I am open to new technologies as soon as I know about them!</p>
+<p align="left">I am an 19-year-old student currently focused on learning C# and web development, but I am open to new technologies as soon as I know about them!</p>
 
 ###
 
