@@ -10,6 +10,13 @@
 ###
 
 <div align="center">
+  <img src="https://streak-stats.demolab.com?user=aldoht&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aldoht&locale=en&hide=python&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<div align="center">
   <img src="https://skillicons.dev/icons?i=cs" height="30" alt="csharp logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="30" alt="dotnetcore logo"  />
@@ -53,12 +60,6 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/aldoht/aldoht/output/snake.svg" alt="Snake animation" />
-
-###
-
 <img align="right" height="180" src="https://art.pixilart.com/b3da24b6c790450.gif"  />
 
 ###
@@ -82,9 +83,6 @@
 
 <br clear="both">
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=aldoht&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aldoht&locale=en&hide=python&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+<img src="https://raw.githubusercontent.com/aldoht/aldoht/output/snake.svg" alt="Snake animation" />
 
 ###
