@@ -10,7 +10,7 @@
 ###
 
 <h2 align="left">Tech I use</h2>
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,arch,arduino,c,py,mysql,angular,supabase,tailwind,js,html,css)](https://skillicons.dev)
 
 ###
 
