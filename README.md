@@ -1,11 +1,11 @@
 <!--
 **aldoht/aldoht** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-<h2 align="left">Hello! My name is Aldo and I'm a developer from México focused on Data Science and Machine Learning.</h2>
+<h2 align="left">Student focused on low-level code, Data Science, and Machine Learning.</h2>
 
 ###
 
-<p align="left">I am an 19-year-old student currently focused on learning Python and statistics.
+<p align="left">As a hobby, I love playing board games and dancing ;)
 
 ###
 
