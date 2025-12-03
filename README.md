@@ -11,7 +11,7 @@
 
 <h2 align="left">Tech I use</h2>
 
-![My Tech](https://skillicons.dev/icons?i=git,github,arch,arduino,c,py,mysql,angular,supabase,tailwind,js,html,css)
+![My Tech](https://skillicons.dev/icons?i=git,github,arch,c,cpp,py,mysql,angular,supabase,tailwind,js,html,css)
 
 ###
 
