@@ -88,11 +88,10 @@
 ---
  
 ### 📊 GitHub Stats
- 
-<p align="center">
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=aldoht&show_icons=true&theme=default&hide_border=true" />
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=aldoht&layout=compact&hide_border=true" />
-</p>
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=aldoht&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented&theme=omni)](https://github-stats-extended.vercel.app/api?username=aldoht&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented&theme=omni)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=aldoht&layout=donut-vertical&langs_count=10&hide_values=true&theme=omni)](https://github-stats-extended.vercel.app/api/top-langs?username=aldoht&layout=donut-vertical&langs_count=10&hide_values=true&theme=omni)
+
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=aldoht&hide_border=true" />
 </p>
